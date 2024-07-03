@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/side.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AAC Learning Hub 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      " Enabled mentorship through class creation and task assignment, Achieved a 35% increase in collaborative learning within the AAC community, Implemented a tailored Learning Management System (LMS) to enhance mentorship effectiveness",
+    url: "https://github.com/Vaishnavibussa",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Crop Cartel",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " Implemented AI-driven direct-to-consumer channels, Eliminated middlemen to empower farmers.",
+    url: "https://github.com/Vaishnavibussa",
   },
   {
-    title: "My Resume Site",
+    title: " Leaf Disease Detection",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      " Detecting plant diseases with 60% success rate (Helps in maintaining crop yield and sustainability).",
+    url: "https://github.com/Vaishnavibussa",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "CleverBooks",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      ".._..",
+    url: "https://github.com/Vaishnavibussa",
   },
 ];
 
